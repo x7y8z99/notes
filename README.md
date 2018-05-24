@@ -17,5 +17,6 @@ python
   Return a sample (or samples) from the “standard normal” distribution
   Two-by-four array of samples from N(3, 6.25):
   >>> 2.5 * np.random.randn(2, 4) + 3
-      array([[-4.49401501,  4.00950034, -1.81814867,  7.29718677],  #random
-       [ 0.39924804,  4.68456316,  4.99394529,  4.84057254]]) #random
+  
+  array([[-4.49401501,  4.00950034, -1.81814867,  7.29718677],  #rando
+         [ 0.39924804,  4.68456316,  4.99394529,  4.84057254]]) #random
